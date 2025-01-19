@@ -2,6 +2,32 @@
 layout: page
 title: Index
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent hendrerit sapien nec feugiat aliquam. Phasellus sodales elit eu elit pellentesque, sed hendrerit quam ultricies. Nullam elit enim, accumsan id turpis at, porttitor ultricies lorem. Integer pharetra mi diam, et congue nisl rutrum vitae. Nunc congue convallis sem, et tempor mauris dignissim a. Curabitur vehicula, enim eget laoreet commodo, eros velit commodo sapien, in dignissim lorem est id purus. Aenean lacinia euismod consequat. Sed sagittis, nibh vel aliquam varius, est sapien dictum nunc, eu bibendum elit nulla id massa. Ut vitae elit sollicitudin, egestas leo sit amet, auctor lorem. 
 
-## Index
+## Chronicle Destiny
+- [Game Design Document](/chronicle-destiny/chronicle-destiny-gdd)
+  - [Lyndi's Chronicle](/chronicle-destiny/lyndis-chronicle)
+  - [Yol's Chronicle](/chronicle-destiny/yols-chronicle)
+  - [Rilo's Chronicle](/chronicle-destiny/rilos-chronicle) 
+  - [Jarry's Chronicle](/chronicle-destiny/jarrys-chronicle)
+  - [Sienna's Chronicle](/chronicle-destiny/siennas-chronicle)
+- [wip](/chronicle-destiny/gdd)
+
+## Threa
+- [The Elements](threa/elements)
+- [Creation](/threa/creation)
+
+### People
+
+|Perfect                 |Pure                       |Union 1st Gen            | Union 2nd Gen           |
+|:-----------------------|:--------------------------|:------------------------|:------------------------|
+|[Aetha](people/aetha)   | [Frill](people/frill)     | [Mort](people/mort)     | [Imoh](people/imoh)     |
+|[Dreavi](people/dreavi) | [Duga](people/duga)       | [Lauril](people/lauril) | [Corlee](people/corlee) |
+|[Nawa](people/nawa)     | [Dis Com](people/dis-com) | [Zeur](people/zeur)     | [Rowlf](people/rowlf)   |
+|                        | [Ma Hir](people/ma-hir)   | [Minka](people/minka)   | [Nink](people/nink)     |
+|                        | [Lor](people/lor)         | [Murai](people/murai)   | [Redn](people/redn)     |
+|                        | [Aria](people/aria)       | [Jin](people/jin)       | [Kapopa](people/kapopa) |
+
+
+### Mechanics
+- [people](mech/people-)
+- [stats](/mech/stats)
