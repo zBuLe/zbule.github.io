@@ -1,6 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title: "Hello, World"
+date: 2025-02-15 07:28:00 -0000
+categories: CATEGORY-1 CATEGORY-2
 ---
 
 # Welcome
